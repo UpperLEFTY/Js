@@ -11,3 +11,5 @@ function DivisionStringified(num1,num2) {
   arr.unshift("X");
      
      }
+  
+   newArray = [];
