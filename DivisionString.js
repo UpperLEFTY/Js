@@ -17,3 +17,5 @@ function DivisionStringified(num1,num2) {
    for (var j = 0, count = 1; j < arr.length; j++, count++){
      
       newArray.push(arr[j]);
+     
+      if (count%3 == 0 && count<arr.length){
