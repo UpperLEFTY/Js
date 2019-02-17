@@ -28,3 +28,12 @@ function DivisionStringified(num1,num2) {
     
   }
   
+  
+  // code goes here  
+  return newArray.join("").replace(/[X]+/g, "")
+         
+}
+   
+// keep this function call here 
+// to see how to enter arguments in JavaScript scroll down
+DivisionStringified(readline());       
